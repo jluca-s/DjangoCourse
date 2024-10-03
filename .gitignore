@@ -1,0 +1,13 @@
+./venv
+venv
+/venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pyz/
+*.pyzinfo
+*.pyzw
+*.pyzw/
